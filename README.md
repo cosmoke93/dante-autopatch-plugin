@@ -13,3 +13,9 @@ The main script is `autopatch_simple.py`, which discovers Dante devices on a net
 ## Building a Windows EXE
 
 A GitHub Actions workflow in this repository builds a standalone Windows executable from the Python script using PyInstaller. The compiled executable will appear in the Actions tab after each commit.
+
+## Modern UI Design
+
+Below is a concept for a modern and intuitive user interface for the Dante AI Autopatch plugin. This design features a dark theme, glassy panels, and interactive connection lines linking devices. The compressed image is included in this repository in the `modern_ui_compressed.jpg` file.
+
+![Modern UI Concept](modern_ui_compressed.jpg)
